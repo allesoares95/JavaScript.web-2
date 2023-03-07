@@ -6,7 +6,7 @@
   <img src="./img/project.svg" width="500" height="400">
 </div>
 
-[Acessar Projeto](https://)
+[Acessar Projeto](https://allesoares95.github.io/JavaScript.web-2/)
 
 # Curso de JavaScript feito pela Alura
     Nesse curso terá armezanenamentos de dados no navagador.
